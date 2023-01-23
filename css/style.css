@@ -69,9 +69,17 @@
 	margin-right: 12px;
 
 }
-.three-divs {
+.two-divs {
 	display: inline-block;
-	margin-right: 12px;
+	margin-top: 69px;
+	margin-right: 10px;
+	background-color: #F8F8F8;
+	width: 352px;
+	height: 360px;
+}
+.third-div {
+	display: inline-block;
+	margin-top: 69px;
 	background-color: #F8F8F8;
 	width: 352px;
 	height: 360px;
@@ -101,7 +109,6 @@
 	font-size: 42px;
 	width: 404px;
 	height: 112px;
-	margin bottom: 69px;
 	font-weight: 900;
 }
 .text-qar-1 {
