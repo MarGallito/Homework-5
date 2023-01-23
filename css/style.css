@@ -1,0 +1,123 @@
+.one {
+	height: 396px;
+	width: 1088px;
+	margin: 0 auto;
+}
+.head {
+	color: #5863F8;
+}
+.blog-name {
+	font-size: 42px;
+	width: 422px;
+	height: 112px;
+	margin bottom: 54px;
+	font-weight: 900;
+}
+.block-img {
+	display: inline-block;
+	vertical-align: middle;
+    padding-right: 16px;
+    width: 168px;
+    height: 190px;
+}
+.heads {
+	color: #5863F8;
+	display: inline-block;
+	font-size: 14px;
+	vertical-align: top;
+	width: 170px;
+	font-family: 'Orbitron';
+}
+.text-1 {		
+	font-family: 'Abel',sans-serif;
+	display: inline-block;
+	width: 168px;
+	font-size: 18px;
+}
+.text-qar {
+	font-family: "BPG Banner Caps", sans-serif;
+	display: inline-block;
+	width: 260px;
+	height: 62px;
+	color: #B1B1B1;
+	font-size: 14px;
+	margin-top: 11px;
+}
+.cup {
+	display: inline-block;
+	background-color: #BE2B2B;
+	width: 536px;
+	height: 190px;
+}
+.cup-txt {
+	width: 260px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.two {
+
+	height: 550px;
+	width: 1088px;
+	margin: 112px auto;
+}
+#bar {
+	display: inline-block;
+	background-color: #F8F8F8;
+	width: 536px;
+	height: 190px;
+	margin-right: 12px;
+
+}
+.three-divs {
+	display: inline-block;
+	margin-right: 12px;
+	background-color: #F8F8F8;
+	width: 352px;
+	height: 360px;
+}
+.block-img-2 {
+	display: inline-block;
+	vertical-align: middle;
+    padding-right: 16px;
+    width: 352px;
+    height: 212px;
+}
+.stone-text {
+	width: 260px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.heads-1 {
+	color: #5863F8;
+	display: inline-block;
+	font-size: 14px;
+	vertical-align: middle;
+	width: 104px;
+	font-family: 'Orbitron';
+	text-align: center;
+}
+.blog-name-1 {
+	font-size: 42px;
+	width: 404px;
+	height: 112px;
+	margin bottom: 69px;
+	font-weight: 900;
+}
+.text-qar-1 {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+	display: inline-block;
+	width: 260px;
+	height: 62px;
+	color: #B1B1B1;
+	font-size: 14px;
+	margin-top: 11px;
+	text-align: center;
+}
+.text-2 {
+	font-family: 'Abel',sans-serif;
+	display: inline-block;
+	width: 168px;
+	font-size: 18px;
+	text-align: center;
+}
