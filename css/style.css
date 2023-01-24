@@ -76,6 +76,7 @@
 	background-color: #F8F8F8;
 	width: 352px;
 	height: 360px;
+	vertical-align: top;
 }
 .third-div {
 	display: inline-block;
@@ -83,6 +84,7 @@
 	background-color: #F8F8F8;
 	width: 352px;
 	height: 360px;
+	vertical-align: top;
 }
 .block-img-2 {
 	display: inline-block;
