@@ -57,7 +57,7 @@
 }
 .two {
 
-	height: 550px;
+	height: 560px;
 	width: 1088px;
 	margin: 112px auto;
 }
@@ -90,7 +90,7 @@
 	display: inline-block;
 	vertical-align: middle;
     padding-right: 16px;
-    width: 352px;
+    width: 368px;
     height: 212px;
 }
 .stone-text {
@@ -103,7 +103,7 @@
 	display: inline-block;
 	font-size: 14px;
 	vertical-align: middle;
-	width: 104px;
+	width: 350px;
 	font-family: 'Orbitron';
 	text-align: center;
 }
@@ -116,7 +116,7 @@
 .text-qar-1 {
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	display: inline-block;
-	width: 260px;
+	width: 350px;
 	height: 62px;
 	color: #B1B1B1;
 	font-size: 14px;
@@ -126,7 +126,7 @@
 .text-2 {
 	font-family: 'Abel',sans-serif;
 	display: inline-block;
-	width: 168px;
+	width: 350px;
 	font-size: 18px;
 	text-align: center;
 }
